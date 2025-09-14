@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hey, I’m Suraj<br><br>🚀 Developer | Learner | Innovator<br><br>💻 Exploring Full Stack Development, AI & Robotics<br><br>🌱 Always learning — currently diving deep into Python, JavaScript & MERN Stack<br><br>🛠️ I love building real-world projects that bring ideas to life<br><br>🌌 Building Argmax Lab — working on AI, Tech & Space<br><br>📫 Let’s connect: Argmaxlab@gmail.com
+# 👋 Hey, I’m Suraj
+🚀 Developer | Learner | Innovator<br><br>💻 Exploring Full Stack Development, AI & Robotics<br><br>🌱 Always learning — currently diving deep into Python, JavaScript & MERN Stack<br><br>🛠️ I love building real-world projects that bring ideas to life<br><br>🌌 Building Argmax Lab — working on AI, Tech & Space<br><br>📫 Let’s connect: Argmaxlab@gmail.com
 
 
 ## 🌐 Socials:
